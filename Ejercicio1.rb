@@ -18,4 +18,6 @@ class Anything
   any = Anything.new
   puts any.foo
   puts any.bar
-  puts any.a
+  puts any.a 
+
+  
